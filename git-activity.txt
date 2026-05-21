@@ -1,1 +1,7 @@
 This is my first Git activity.
+
+
+
+
+
+Activity 3 - Git and GitHub Repository Creation
